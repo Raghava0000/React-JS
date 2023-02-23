@@ -1,0 +1,16 @@
+React JS :- React is javascript library for buliding users interfaces..
+>React is used to build single page applications
+>React allows to create reusable UI componants
+>React is declarative, officient and flexible javascript library for buliding reusable UI components.
+it is an open source, componant based front end library which is resposible only for the view  layer of the applications.
+it is initially devoloped and maintained by Facebook, and later uesd in its products like watsapp and instagram.
+
+
+installation:-
+> install node JS
+
+npm:-node package manager : it manages javascript packages.
+
+for installing creat-react-app across the mechine:
+  
+   npm install-global creat-react-app
